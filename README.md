@@ -41,5 +41,5 @@ The insights derived from this analysis help businesses make informed decisions 
 
 Here is a snapshot of the sales dashboard used in this analysis:
 
-![Sales Dashboard](sales dashboard.png)
+![Sales Dashboard](sales-dashboard.png)
 
