@@ -36,3 +36,5 @@ The dataset includes order details, product categories, revenue, and profit. Som
 
 ## Conclusion & Recommendations
 The insights derived from this analysis help businesses make informed decisions regarding product pricing, discount strategies, and stock optimization. Future improvements could include predictive analytics to forecast sales trends and refine inventory management.
+
+![Dashboard Screenshot](Sales Dashboard.png)
